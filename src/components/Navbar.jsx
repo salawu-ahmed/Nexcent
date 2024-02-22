@@ -7,19 +7,19 @@ const Navbar = () => {
         <img src="src/assets/Icon.png" alt="/" className="mr-1"/>
         <h1 className="font-bold">Nexcent</h1>
       </div>
-      <nav className="w-[40%]">
+      <nav className="hidden sm:block sm:min-w-[40%]">
         <ul className="flex justify-between w-full items-center">
-          <li className="list-none">Home</li>
-          <li className="list-none">Service</li>
-          <li className="list-none">Feature</li>
-          <li className="list-none">Product</li>
-          <li className="list-none">Testimonial</li>
-          <li className="list-none">~FAQ</li>
+          <li className="list-none bg-yellow-400 p-2">Home</li>
+          <li className="list-none p-2">Service</li>
+          <li className="list-none p-2">Feature</li>
+          <li className="list-none p-2">Product</li>
+          <li className="list-none p-2">Testimonial</li>
+          <li className="list-none p-2">~FAQ</li>
         </ul>
       </nav>
       <div>
-        <button className="mr-2">Login</button>
-        <button>Sign up</button>
+        <button className="mr-2 text-primary-color p-2">Login</button>
+        <button className="bg-primary-color text-white p-2">Sign up</button>
       </div>
     </div>
   );

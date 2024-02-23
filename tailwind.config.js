@@ -14,6 +14,9 @@ export default {
         "success": "var(--success)",
         "info": "var(--info)",
         "silver": "var(--silver)"
+      },
+      dropShadow: {
+        "card": "0 2px 4px rgba(0,0,0,0.2)"
       }
     },
   },

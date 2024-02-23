@@ -4,4 +4,12 @@
 
 :root {
     --primary-color: #28CB8B;
+    --dark-grey: #4D4D4D;
+    --grey: #717171;
+    --info: #2194f3;
+    --silver: #F5F7FA;
+    --light-grey: #89939E;
+    --warning: #FBC02D;
+    --error: #E53835;
+    --success: #2E7D31;
 }

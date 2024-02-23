@@ -7,7 +7,12 @@ export default {
   theme: {
     extend: {
       colors: {
-        "primary-color": "var(--primary-color)"
+        "primary-color": "var(--primary-color)",
+        "dark-grey": "var(--dark-grey)",
+        "light-grey": "var(--light-grey)",
+        "success": "var(--success)",
+        "info": "var(--info)",
+        "silver": "var(--silver)"
       }
     },
   },

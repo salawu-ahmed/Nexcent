@@ -8,8 +8,9 @@ export default {
     extend: {
       colors: {
         "primary-color": "var(--primary-color)",
-        "dark-grey": "var(--dark-grey)",
+        "grey": "var(--grey)",
         "light-grey": "var(--light-grey)",
+        "dark-grey": "var(--dark-grey)",
         "success": "var(--success)",
         "info": "var(--info)",
         "silver": "var(--silver)"

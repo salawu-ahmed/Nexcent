@@ -18,9 +18,9 @@ const Navbar = () => {
           <li className="list-none p-2">~FAQ</li>
         </ul>
       </nav>
-      <div>
-        <button className="mr-2 text-primary-color p-2">Login</button>
-        <button className="bg-primary-color text-white p-2">Sign up</button>
+      <div className="flex">
+        <button className="mr-2 text-primary-color p-2 rounded-lg">Login</button>
+        <button className="bg-primary-color text-white p-2 rounded-xl">Sign up</button>
       </div>
     </div>
     </div>

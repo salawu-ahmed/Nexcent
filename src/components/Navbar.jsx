@@ -19,8 +19,8 @@ const Navbar = () => {
         </ul>
       </nav>
       <div className="flex">
-        <button className="mr-2 text-primary-color p-2 rounded-lg">Login</button>
-        <button className="bg-primary-color text-white p-2 rounded-xl">Sign up</button>
+        <button className="mr-2 text-primary-color p-2 rounded-sm">Login</button>
+        <button className="bg-primary-color text-white py-2 px-4 rounded-sm">Sign up</button>
       </div>
     </div>
     </div>

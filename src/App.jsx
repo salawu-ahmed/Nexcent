@@ -4,6 +4,7 @@ import Community from './components/Community'
 import Hero from './components/Hero'
 import Navbar from './components/Navbar'
 import Pixelgrade from './components/Pixelgrade'
+import Stats from './components/Stats'
 
 function App() {
 
@@ -14,6 +15,7 @@ function App() {
     <Clients />
     <Community />
     <Pixelgrade /> 
+    <Stats />
     </>
   )
 }

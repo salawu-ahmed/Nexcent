@@ -3,6 +3,7 @@ import Clients from './components/Clients'
 import Community from './components/Community'
 import Customers from './components/Customers'
 import Hero from './components/Hero'
+import Marketing from './components/Marketing'
 import Navbar from './components/Navbar'
 import Pana from './components/Pana'
 import Pixelgrade from './components/Pixelgrade'
@@ -20,6 +21,7 @@ function App() {
     <Stats />
     <Pana /> 
     <Customers />
+    <Marketing />
     </>
   )
 }

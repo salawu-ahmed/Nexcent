@@ -1,7 +1,9 @@
 import './App.css'
 import Clients from './components/Clients'
 import Community from './components/Community'
+import Cta from './components/Cta'
 import Customers from './components/Customers'
+import Footer from './components/Footer'
 import Hero from './components/Hero'
 import Marketing from './components/Marketing'
 import Navbar from './components/Navbar'
@@ -22,6 +24,8 @@ function App() {
     <Pana /> 
     <Customers />
     <Marketing />
+    <Cta />
+    <Footer />
     </>
   )
 }

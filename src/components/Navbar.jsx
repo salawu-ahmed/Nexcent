@@ -5,7 +5,7 @@ const Navbar = () => {
     <div className="w-full bg-silver">
     <div className="flex justify-between items-center max-w-6xl mx-auto py-4 bg-silver">
       <div className="flex ">
-        <img src="src/assets/Icon.png" alt="/" className="mr-1"/>
+        <img src="public/assets/Icon.png" alt="/" className="mr-1"/>
         <h1 className="font-bold text-2xl">Nexcent</h1>
       </div>
       <nav className="hidden sm:block sm:min-w-[40%]">

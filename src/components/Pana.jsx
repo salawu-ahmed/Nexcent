@@ -5,7 +5,7 @@ const Pana = () => {
     <div className='w-full py-12'>
       <div className='max-w-6xl mx-auto flex justify-between items-center'>
         <div className='w-2/5'>
-            <img src="src/assets/pana.png" alt="/" />
+            <img src="/pana.png" alt="/" />
         </div>
         <div className='w-3/5'>
             <h1 className='text-dark-grey font-semibold text-[40px]'>How to design your site footer like we did</h1>

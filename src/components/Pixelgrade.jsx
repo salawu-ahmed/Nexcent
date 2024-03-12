@@ -5,7 +5,7 @@ const Pixelgrade = () => {
     <div className='py-12 w-full'>
       <div className="max-w-6xl mx-auto flex items-center justify-between">
         <div className='w-2/2'>
-            <img src="src/assets/rafiki.png" alt="/" className='text-5xl' />
+            <img src="/rafiki.png" alt="/" className='text-5xl' />
         </div>
         <div className='w-3/5'>
             <h2 className='text-5xl font-semibold text-dark-grey mb-4'>The unseen of spending three <br />years at Pixelgrade</h2>

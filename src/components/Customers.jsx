@@ -25,22 +25,22 @@ const Customers = () => {
           <p className="text-light-grey mb-4">British Dragon boat racing association </p>
           <ul className="list-none flex max-w-full justify-between items-center">
             <li>
-              <img src="src/assets/Logo.png" alt="/" />
+              <img src="/Logo.png" alt="/" />
             </li>
             <li>
-              <img src="src/assets/Logo (1).png" alt="/" />
+              <img src="/Logo (1).png" alt="/" />
             </li>
             <li>
-              <img src="src/assets/Logo (2).png" alt="/" />
+              <img src="/Logo (2).png" alt="/" />
             </li>
             <li>
-              <img src="src/assets/Logo (3).png" alt="/" />
+              <img src="/Logo (3).png" alt="/" />
             </li>
             <li>
-              <img src="src/assets/Logo (4).png" alt="/" />
+              <img src="/Logo (4).png" alt="/" />
             </li>
             <li>
-              <img src="src/assets/Logo (5).png" alt="/" />
+              <img src="/Logo (5).png" alt="/" />
             </li>
             <li className="text-primary-color text-xl flex gap-2 items-center">
               Meet all customers <FaArrowRight />

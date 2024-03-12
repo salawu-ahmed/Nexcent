@@ -12,28 +12,28 @@ const Stats = () => {
         <div className="grid grid-cols-2 gap-12 w-2/5">
             <div className='flex items-center gap-4'>
                 <div>
-                <img src="src/assets/Vector.png" alt="" />
+                <img src="/Vector.png" alt="" />
                 </div>
                 <p className='text-3xl leading-6 text-dark-grey'>2,345,453 <br /><span className='text-grey text-sm'>Members</span></p>
             </div>
 
             <div className='flex items-center gap-4'>
                 <div>
-                <img src="src/assets/Icon (4).png" alt="" />
+                <img src="/Icon (4).png" alt="" />
                 </div>
                 <p className='text-3xl leading-6 text-dark-grey'>46,326 <br /><span className='text-grey text-sm'>Clubs</span></p>
             </div>
 
             <div className='flex items-center gap-4'>
                 <div>
-                <img src="src/assets/Vector (2).png" alt="" />
+                <img src="/Vector (2).png" alt="" />
                 </div>
                 <p className='text-3xl leading-6 text-dark-grey'>828,867 <br /><span className='text-grey text-sm'>Event Bookings</span></p>
             </div>
 
             <div className='flex items-center gap-4'>
                 <div>
-                <img src="src/assets/Vector (1).png" alt="" />
+                <img src="/Vector (1).png" alt="" />
                 </div>
                 <p className='text-3xl leading-6 text-dark-grey'>1,926,436<br /><span className='text-grey text-sm'>Payments</span></p>
             </div>

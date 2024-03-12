@@ -28,7 +28,7 @@ const Marketing = () => {
           </div>
 
           <div className="relative">
-            <img src="src/assets/image 19.png" alt="/" />
+            <img src="/image 19.png" alt="/" />
             <div className="bg-silver rounded-md text-grey shadow-sm absolute bottom-[-32px] text-center left-8 w-4/5 mx-auto p-4">
               <p>What are your safeguarding responsibilities and how can you manage them?</p>
               <button className="text-primary-color text-center">
@@ -39,7 +39,7 @@ const Marketing = () => {
           </div>
 
           <div className="relative">
-            <img src="src/assets/image 20.png" alt="/" />
+            <img src="/image 20.png" alt="/" />
             <div className="bg-silver rounded-md text-grey shadow-sm absolute bottom-[-32px] text-center left-8 w-4/5 mx-auto p-4">
               <p>Revamping the Membership Model with Triathlon Australia</p>
               <button className="text-primary-color text-center">

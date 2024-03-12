@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="max-w-6xl mx-auto flex items-start justify-between">
         <div className="w-1/3">
           <div className="flex items-center mb-6 gap-2">
-            <img src="src/assets/Icon.png" alt="/" />
+            <img src="/Icon.png" alt="/" />
             <h1 className="text-3xl font-bold text-white">Nextcent</h1>
           </div>
           <p className="text-silver mb-6">

@@ -6,7 +6,7 @@ const Customers = () => {
     <div className="w-full bg-silver py-12">
       <div className="max-w-6xl mx-auto flex items-center justify-between">
         <div className="w-2/6">
-          <img src="src/assets/image 9.png" alt="/" />
+          <img src="/image 9.png" alt="/" />
         </div>
         <div className="w-3/5">
           <p className="text-grey font-medium mb-2">

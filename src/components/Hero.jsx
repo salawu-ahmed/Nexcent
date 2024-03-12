@@ -9,7 +9,7 @@ const Hero = () => {
       <p className='text-light-grey mb-7'>Where to grow your business as a photographer: sites or media?</p>
       <button className='bg-primary-color text-white py-2 px-4 rounded-sm'>Register</button>
         </div>
-      <img src="src/assets/Illustration.png" alt="/" />
+      <img src="/Illustration.png" alt="/" />
     </div>
     </div>
   )
